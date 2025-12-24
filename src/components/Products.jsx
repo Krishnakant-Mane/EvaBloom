@@ -61,7 +61,7 @@ export const Products = () => {
     ])
 
     const handleOrder = (product) => {
-        const phoneNumber = 7506997520
+        const phoneNumber = 919969516348
 
         const message = `
             Hello, I want to Buy these Products
