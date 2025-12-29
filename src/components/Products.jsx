@@ -50,7 +50,7 @@ export const Products = () => {
             "productPrice": 299
         },
         {
-            "productId": "P005",
+            "productId": "P006",
             "productName": "Natural Coconut Oil",
             "productDescription": "100% pure cold-pressed coconut oil suitable for cooking and hair care.",
             "productImages": [
