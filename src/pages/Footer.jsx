@@ -17,7 +17,7 @@ export const Footer = () => {
                     </p>
 
                     {/* Social Icons */}
-                    <div className="flex gap-4">
+                    <div id='contact' className="flex gap-4">
 
                         {/* WhatsApp */}
                         <a

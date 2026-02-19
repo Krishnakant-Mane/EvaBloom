@@ -23,7 +23,7 @@ export const Message = () => {
               Note: backdrop-blur-md creates the frost effect, 
               bg-white/10 provides transparency/color tint 
           */}
-          <div className="bg-white/10 backdrop-blur-md p-8 sm:p-12 rounded-2xl shadow-2xl max-w-3xl text-center text-white">
+          <div className=" bg-white/10 backdrop-blur-md p-8 sm:p-12 rounded-2xl shadow-2xl max-w-3xl text-center text-white">
             
             {/* Main Headline */}
             <h1 className="text-3xl sm:text-4xl font-bold mb-4 italic" style={{ color: '#4d0b0d' }}>

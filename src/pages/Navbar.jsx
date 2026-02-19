@@ -57,7 +57,6 @@ export const Navbar = () => {
         <div className="hidden md:flex gap-8 items-center">
           <a className="p-2 text-white hover:border-b-2" href="#home">Home</a>
           <a className="p-2 text-white hover:border-b-2" href="#products">Products</a>
-          <a className="p-2 text-white hover:border-b-2" href="#reviews">Reviews</a>
           <a className="p-2 text-white hover:border-b-2" href="#contact">Contact</a>
         </div>
 
